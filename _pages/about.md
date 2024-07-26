@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student at Chongqing University of Posts and Telecommunications, with the supervision of [Ye Wang](https://wangye0523.github.io/). I will go to Sichuan University in Septemter 2024 for a master degree, with the supervision of [Ning Yang](https://yneversky.github.io/).
+I will go to Sichuan University in Septemter 2024 for a master degree, with the supervision of [Ning Yang](https://yneversky.github.io/).
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Received the First-Class Prize for Excellent Undergraduate Graduation Project (Thesis) at CQUPT.
 - *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
-- *2023.12*: &nbsp;🎉🎉 Happy to be awarded the Advanced individual in academic development. 
-- *2023.12*: &nbsp;🎉🎉 Happy to be awarded the National Scholarship in the academic year 2022-2023. 
 
-
+ 
 # 📝 Competitions 
 - *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National second prize.
 - *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National third prize.
@@ -37,6 +36,7 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 
 
 # 🎖 Honors and Awards
+- *2024.07*, First-Class Prize for Excellent Undergraduate Graduation Project (Thesis)
 - *2024.04*, Chongqing Outstanding Graduates.
 - *2023.12*, The advanced individual in academic development.
 - *2023.12*, The China **National Scholarship** (2022-2023).
@@ -53,7 +53,8 @@ I am currently an undergraduate student at Chongqing University of Posts and Tel
 
 
 # 📖 Educations
-- *2020.09 - 2024.06 (now)*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications, Chongqing, China.
+- *2024.09 - 2027.06(now)*, M.Eng. Electronic Information, Sichuan University(SCU), Chengdu, China. My tutor is [Ning Yang](https://yneversky.github.io/).
+- *2020.09 - 2024.06*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications(CQUPT), Chongqing, China. My tutor is [Ye Wang](https://wangye0523.github.io/).
 
 
 <!--
