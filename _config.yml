@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guanmeng Xian"
-description              : "Emotion Recognition in Conversations"
+description              : "Recommender System"
 repository               : "gmXian.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanmeng Xian"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "@Intelligent Science, Chongqing University of Posts and Telecommunications"
-  location         : "Chongqing, China"
+  bio              : "@Artificial Intelligence, Sichuan University"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
