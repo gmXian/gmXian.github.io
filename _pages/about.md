@@ -21,6 +21,7 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Happy to be awarded the First Prize Scholarship (SCU).
 - *2024.07*: &nbsp;🎉🎉 Received the First-Class Prize for Excellent Undergraduate Graduation Project (Thesis) at CQUPT.
 - *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
 
@@ -33,9 +34,11 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 - *2023.05*, The 14th China Students Service Outsourcing Innovation and Entrepreneurship Competition, Regional first prize.
 - *2022.11*, China Undergraduate Mathematical Contest in Modeling (2022), Provincial first prize.
 
-
+# 💻 Projects
+- *2023-2024*, Digitizing Your Mindmap, Supported by National College Student Innovation and Entrepreneurship Training Program with Project No.202310617004.
 
 # 🎖 Honors and Awards
+- *2024.07*, The First Prize Scholarship (SCU).
 - *2024.07*, First-Class Prize for Excellent Undergraduate Graduation Project (Thesis)
 - *2024.04*, Chongqing Outstanding Graduates.
 - *2023.12*, The advanced individual in academic development.
