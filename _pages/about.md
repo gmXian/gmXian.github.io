@@ -21,6 +21,7 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 Happy to be awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 - *2024.07*: &nbsp;🎉🎉 Happy to be awarded the First Prize Scholarship (SCU).
 - *2024.07*: &nbsp;🎉🎉 Received the First-Class Prize for Excellent Undergraduate Graduation Project (Thesis) at CQUPT.
 - *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
@@ -38,6 +39,7 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 - *2023-2024*, Digitizing Your Mindmap, Supported by National College Student Innovation and Entrepreneurship Training Program with Project No.202310617004.
 
 # 🎖 Honors and Awards
+- *2024.08*, The 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 - *2024.07*, The First Prize Scholarship (SCU).
 - *2024.07*, First-Class Prize for Excellent Undergraduate Graduation Project (Thesis)
 - *2024.04*, Chongqing Outstanding Graduates.
@@ -56,8 +58,8 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 
 
 # 📖 Educations
-- *2024.09 - 2027.06(now)*, M.Eng. Electronic Information, Sichuan University(SCU), Chengdu, China. My tutor is [Ning Yang](https://yneversky.github.io/).
-- *2020.09 - 2024.06*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications(CQUPT), Chongqing, China. My tutor is [Ye Wang](https://wangye0523.github.io/).
+- *2024.09 - 2027.06(now)*, M.Eng. Electronic Information, Sichuan University (SCU), Chengdu, China. My tutor is [Ning Yang](https://yneversky.github.io/).
+- *2020.09 - 2024.06*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications (CQUPT), Chongqing, China.  Under the guidance of [Ye Wang](https://wangye0523.github.io/), I completed my bachelor’s degree thesis titled “The Design and Implementation of Dialogue Sentiment Analysis System Based on Multimodal Feature Fusion”, which was awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 
 
 <!--
