@@ -58,7 +58,7 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 
 # 📖 Educations
 - *2024.09 - 2027.06(now)*, M.Eng. Electronic Information, Sichuan University (SCU), Chengdu, China. My tutor is [Ning Yang](https://yneversky.github.io/).
-- *2020.09 - 2024.06*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications (CQUPT), Chongqing, China.  Under the guidance of [Ye Wang](https://wangye0523.github.io/), I completed my bachelor’s degree thesis titled “The Design and Implementation of Dialogue Sentiment Analysis System Based on Multimodal Feature Fusion”, which was awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
+- *2020.09 - 2024.06*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications (CQUPT), Chongqing, China.  Under the guidance of [Ye Wang](https://wangye0523.github.io/), I completed my bachelor’s degree thesis titled “The Design and Implementation of a Dialogue Sentiment Analysis System Based on Multimodal Feature Fusion”, which was awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 
 
 <!--
