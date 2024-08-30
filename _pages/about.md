@@ -41,7 +41,7 @@ I will go to Sichuan University in Septemter 2024 for a master degree, with the 
 # 🎖 Honors and Awards
 - *2024.08*, The 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 - *2024.07*, The First Prize Scholarship (SCU).
-- *2024.07*, First-Class Prize for Excellent Undergraduate Graduation Project (Thesis)
+- *2024.07*, First-Class Prize for Excellent Undergraduate Graduation Project (Thesis) in CQUPT.
 - *2024.04*, Chongqing Outstanding Graduates.
 - *2023.12*, The advanced individual in academic development.
 - *2023.12*, The China **National Scholarship** (2022-2023).
