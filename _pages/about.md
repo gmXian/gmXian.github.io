@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I will go to Sichuan University in Septemter 2024 for a master degree, with the supervision of [Ning Yang](https://yneversky.github.io/).
-
+Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu,China under the the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 Happy to be awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
