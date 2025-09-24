@@ -36,6 +36,16 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 # 💻 Projects
 - *2023-2024*, Digitizing Your Mindmap, Supported by National College Student Innovation and Entrepreneurship Training Program with Project No.202310617004.
 
+
+# 🔋 Services
+## TA
+- [Formal Methods in Computer Science](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf)
+
+## Reviewer
+- AAAI 2026
+
+
+
 # 🎖 Honors and Awards
 - *2024.08*, The 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 - *2024.07*, The First Prize Scholarship (SCU).
