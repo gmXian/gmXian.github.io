@@ -39,10 +39,10 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 # 🔋 Services
 ## TA
-- [Formal Methods in Computer Science](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf)
+- [Formal Methods in Computer Science](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf), Sichuan University-Pittsburgh Institute(SCUPI).
 
 ## Reviewer
-- AAAI 2026
+- Conferences: AAAI 2026
 
 
 
