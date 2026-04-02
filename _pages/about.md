@@ -96,6 +96,8 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - *2024.09 - 2027.06(now)*, M.Eng. Electronic Information, Sichuan University (SCU), Chengdu, China. My tutor is [Ning Yang](https://yneversky.github.io/).
 - *2020.09 - 2024.06*, B.Eng. Intelligent science and technology, Chongqing University of Posts and Telecommunications (CQUPT), Chongqing, China.  Under the guidance of [Ye Wang](https://wangye0523.github.io/), I completed my bachelor’s degree thesis titled “The Design and Implementation of a Dialogue Sentiment Analysis System Based on Multimodal Feature Fusion”, which was awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 
+# 💻 Internships
+- *2026.01 - 2026.04*, Research Intern (AI Security & Trustworthy Evaluation), China Mobile, Digital Intelligence Department.
 
 <!--
 
@@ -103,8 +105,6 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
 # Traffic statistics
