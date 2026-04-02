@@ -17,13 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu,China under the the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
+Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu, China under the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
 
 # 🔥 News
 - *2024.08*: &nbsp;🎉🎉 Happy to be awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 - *2024.07*: &nbsp;🎉🎉 Happy to be awarded the First Prize Scholarship (SCU).
 - *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
 
+<div style="font-family: 'Times New Roman', Times, serif;">
+
+# 📝 Publications
+
+- **Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**
+  <br> Ye Wang<sup>*</sup>, Zhuoyi Yu, **Guanmeng Xian**, Qianmengke Zhao, Hong Yu, Xiao Li.
+  <br> *Neural Computing and Applications (**NCAA**)*, Accepted for publication.
+  <br> [\[Paper\]](#) &nbsp; [\[Code\]](#)
+
+</div>
  
 # 📝 Competitions 
 - *2023.11*, The 11th National College Students' Digital Media Technology Works and Creativity Competition，National second prize.
@@ -38,12 +48,29 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 
 # 🔋 Services
-## TA
-- [Formal Methods in Computer Science](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf), Sichuan University-Pittsburgh Institute(SCUPI). My notes have been released at [whynotstar](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjMyODgzNA==&action=getalbum&album_id=4192307105656733698#wechat_redirect).
-
 ## Reviewer
 - Conferences: AAAI 2026
 
+## Leadership
+- **President**, [CCF Student Chapter at Sichuan University (SCU)](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/), 2026.03 - Present.
+  <br> Leading the student chapter, responsible for drafting operational guidelines, organizing academic exchanges and technical workshops, and formulating the annual activity development plan for student members.
+
+## TA
+- [Formal Methods in Computer Science](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf), Sichuan University-Pittsburgh Institute(SCUPI). My notes have been released at [whynotstar](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjMyODgzNA==&action=getalbum&album_id=4192307105656733698#wechat_redirect).
+- Operating Systems, College of Software, Sichuan University.
+- Introduction to Software Engineering, College of Software, Sichuan University.
+
+
+
+
+<div style="font-family: 'Times New Roman', Times, serif;">
+
+# 💡 Patents
+
+- **A Method and System for Recognizing Hand-Drawn Bracket Diagrams (一种手绘括号图识别方法及系统)**
+  <br> **Guanmeng Xian**, Ye Wang, Haoran Wang, Jinhao Tang, Hong Yu.
+  <br> *China National Intellectual Property Administration (CNIPA)*, Application No. 2023102669692, Granted.
+</div>
 
 
 # 🎖 Honors and Awards
