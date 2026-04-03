@@ -49,7 +49,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - Conferences: AAAI 2026
 
 ## Leadership
-- **President**, [CCF Student Chapter at Sichuan University (SCU)](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/), 2026.03 - Present.
+- **President**, CCF Student Chapter at Sichuan University [(CCFSCU)](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/), 2026.03 - Present.
   <br> Leading the student chapter, responsible for drafting operational guidelines, organizing academic exchanges and technical workshops, and formulating the annual activity development plan for student members.
 
 ## TA
