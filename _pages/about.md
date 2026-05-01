@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu, China under the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
+Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu, China under the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Two papers on Adversarial Training have been accepted by **IJCAI 2026**!
@@ -94,9 +94,6 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - Introduction to Software Engineering, College of Software, Sichuan University.
 
 
-
-
-
 # 💡 Patents
 
 - **A Method and System for Recognizing Hand-Drawn Bracket Diagrams (一种手绘括号图识别方法及系统)**
@@ -131,16 +128,5 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 # 💻 Internships
 - *2026.01 - 2026.04*, Research Intern (AI Security & Trustworthy Evaluation), China Mobile, Digital Intelligence Department.
 
-<!--
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
--->
-
 # Traffic statistics
-<div align=center><a href='https://clustrmaps.com/site/1bxpc'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=96bfd7&w=a&t=n&d=RkKj3tHK4P8QoPYq7dew8DX87K1aZDrq3LlaQ2bm80Y&co=ffffff&ct=ffffff'/></a>
-<!--注释掉了
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5rlpmlmwfoq&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;s=256" async="async"></script>
--->
+<div align=center><a href='https://clustrmaps.com/site/1bxpc'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=96bfd7&w=a&t=n&d=RkKj3tHK4P8QoPYq7dew8DX87K1aZDrq3LlaQ2bm80Y&co=ffffff&ct=ffffff'/></a></div>
