@@ -29,41 +29,38 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 # 📝 Publications
 
 <div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">IJCAI 2026</div>
-            <img src='images/MCAT.png' alt="MCAT" width="100%">
-        </div>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IJCAI 2026</div>
+      <img src='images/MCAT.png' alt="MCAT" width="100%">
     </div>
-    <div class='paper-box-text' markdown="1">
-        **Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment**
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment](#)
 
-        **Guanmeng Xian**, Ning Yang*, Philip S. Yu
-        
-        [**Paper**](#) | [**Code**](#) | [**Poster**](#)
-        
-        - Proposed a manifold-constrained framework to tackle the robust generalization issue under long-tailed distributions.
-    </div>
+**Guanmeng Xian**, Ning Yang*, Philip S. Yu
+
+[**Project**](#) | [**Code**](#) 
+- This work introduces a geometric alignment approach to enhance model robustness under long-tailed distributions via manifold constraints.
+  </div>
 </div>
 
 <div class='paper-box'>
-    <div class='paper-box-image'>
-        <div>
-            <div class="badge">IJCAI 2026</div>
-            <img src='images/UAT-MC.png' alt="UAT-MC" width="100%">
-        </div>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IJCAI 2026</div>
+      <img src='images/UAT-MC.png' alt="UAT-MC" width="100%">
     </div>
-    <div class='paper-box-text' markdown="1">
-        **Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks**
+  </div>
+  <div class='paper-box-text' markdown="1">
+[Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](#)
 
-        **Guanmeng Xian**, Ning Yang*, Philip S. Yu
-        
-        [**Paper**](#) | [**Code**](#) | [**Poster**](#)
-        
-        - ...
-    </div>
+**Guanmeng Xian**, Ning Yang*, Philip S. Yu
+
+[**Project**](#) | [**Code**](#)
+- Proposed UAT-MC, a defense framework that leverages multimodal coordination to protect recommender systems from promotion attacks.
+  </div>
 </div>
-
 
 
 - **Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**
