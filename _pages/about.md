@@ -20,6 +20,7 @@ redirect_from:
 Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu, China under the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Two papers on Adversarial Training have been accepted by **IJCAI 2026**!
 - *2024.08*: &nbsp;🎉🎉 Happy to be awarded the 2024 Chongqing Outstanding Undergraduate Thesis (Design).
 - *2024.07*: &nbsp;🎉🎉 Happy to be awarded the First Prize Scholarship (SCU).
 - *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
@@ -35,9 +36,13 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
-        [Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment](#)
+        **Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment**
+
         **Guanmeng Xian**, Ning Yang*, Philip S. Yu
-        [**Project**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+        
+        [**Paper**](#) | [**Code**](#) | [**Poster**](#)
+        
+        - Proposed a manifold-constrained framework to tackle the robust generalization issue under long-tailed distributions.
     </div>
 </div>
 
@@ -49,11 +54,17 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
-        [Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](#)
+        **Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks**
+
         **Guanmeng Xian**, Ning Yang*, Philip S. Yu
-        [**Project**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+        
+        [**Paper**](#) | [**Code**](#) | [**Poster**](#)
+        
+        - ...
     </div>
 </div>
+
+
 
 - **Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**
  Ye Wang, Zhuoyi Yu, **Guanmeng Xian**, Qianmengke Zhao, Hong Yu, Xiao Li.
