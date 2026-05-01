@@ -26,7 +26,6 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - *2024.04*: &nbsp;🎉🎉 Happy to be awarded Chongqing Outstanding Graduates. 
 
 
-# 📝 Publications
 
 # 📝 Publications
 
@@ -111,7 +110,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 # 💡 Patents
 
-- **A Method and System for Recognizing Hand-Drawn Bracket Diagrams (一种手绘括号图识别方法及系统)**
+- **A Method and System for Recognizing Hand-Drawn Bracket Diagrams**
   **Guanmeng Xian**, Ye Wang, Haoran Wang, Jinhao Tang, Hong Yu.
   *China National Intellectual Property Administration (CNIPA)*, Application No. 2023102669692, Granted.
 
