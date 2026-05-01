@@ -27,6 +27,34 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 # 📝 Publications
 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">IJCAI 2026</div>
+            <img src='images/MCAT.png' alt="MCAT" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment](#)
+        **Guanmeng Xian**, Ning Yang*, Philip S. Yu
+        [**Project**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+    </div>
+</div>
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <div class="badge">IJCAI 2026</div>
+            <img src='images/UAT-MC.png' alt="UAT-MC" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        [Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks](#)
+        **Guanmeng Xian**, Ning Yang*, Philip S. Yu
+        [**Project**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+    </div>
+</div>
+
 - **Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**
  Ye Wang, Zhuoyi Yu, **Guanmeng Xian**, Qianmengke Zhao, Hong Yu, Xiao Li.
   *Neural Computing and Applications (**NCAA**)*, Accepted for publication.
