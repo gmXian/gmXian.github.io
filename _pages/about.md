@@ -44,8 +44,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
       <strong>Guanmeng Xian</strong>, Ning Yang*, Philip S. Yu
     </p>
     <p>
-      <a href="#"><strong>Project</strong></a> |
-      <a href="#"><strong>Code</strong></a>
+      <a href="https://github.com/gmXian/MCAT"><strong>Code</strong></a>
     </p>
     <ul>
       <li>This work introduces a geometric alignment approach to enhance model robustness under long-tailed distributions via manifold constraints.</li>
@@ -68,8 +67,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
       <strong>Guanmeng Xian</strong>, Ning Yang*, Philip S. Yu
     </p>
     <p>
-      <a href="#"><strong>Project</strong></a> |
-      <a href="#"><strong>Code</strong></a>
+      <a href="https://github.com/gmXian/UAT-MC"><strong>Code</strong></a>
     </p>
     <ul>
       <li>Proposed UAT-MC, a defense framework that leverages multimodal coordination to protect recommender systems from promotion attacks.</li>
