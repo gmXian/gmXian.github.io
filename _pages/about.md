@@ -75,7 +75,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   </div>
 </div>
 
-- **Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**  
+- [**Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**](https://link.springer.com/article/10.1007/s00521-026-12107-x)  
   Ye Wang, Zhuoyi Yu, **Guanmeng Xian**, Qianmengke Zhao, Hong Yu, Xiao Li.  
   *Neural Computing and Applications (**NCAA**)*, Accepted for publication.
 
