@@ -38,7 +38,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   </div>
   <div class='paper-box-text'>
     <p>
-      <a href="#">Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment</a>
+      <a href="https://arxiv.org/abs/2605.02183">Manifold-Constrained Adversarial Training for Long-Tailed Robustness via Geometric Alignment</a>
     </p>
     <p>
       <strong>Guanmeng Xian</strong>, Ning Yang*, Philip S. Yu
@@ -61,7 +61,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   </div>
   <div class='paper-box-text'>
     <p>
-      <a href="#">Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks</a>
+      <a href="http://arxiv.org/abs/2605.06238">Band Together: Untargeted Adversarial Training with Multimodal Coordination against Evasion-based Promotion Attacks</a>
     </p>
     <p>
       <strong>Guanmeng Xian</strong>, Ning Yang*, Philip S. Yu
