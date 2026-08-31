@@ -20,6 +20,7 @@ redirect_from:
 Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu, China under the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉🎉 One paper has been accepted by **CIKM 2026**!
 - *2026.07*: &nbsp;🎉🎉 Happy to be awarded the First Prize Scholarship (SCU).
 - *2026.06*: &nbsp;🎉🎉 Happy to be selected for the 2026 Kweichow Moutai · Pillar of the Nation Outstanding Talents Program (Master’s).
 - *2026.05*: &nbsp;🎉🎉 Two papers on Adversarial Training have been accepted by **IJCAI 2026**!
