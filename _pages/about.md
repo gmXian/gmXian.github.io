@@ -74,6 +74,10 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   </div>
 </div>
 
+- **GCL-Detox: Disentangling Uniformity for Robust and Effective Graph Contrastive Learning-Based Recommendation**
+  Qinwen Ran, **Guanmeng Xian**, Ning Yang, Philip S. Yu
+  **CIKM 2026(Oral)**
+
 - [**Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**](https://link.springer.com/article/10.1007/s00521-026-12107-x)  
   Zhuoyi Yu, **Guanmeng Xian**, Qianmengke Zhao, Hong Yu, Xiao Li, Ye Wang.  
   *Neural Computing and Applications (**NCAA**)*, Accepted for publication.
