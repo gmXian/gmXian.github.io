@@ -93,7 +93,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 # 🔋 Services
 ## Reviewer
-- Conferences: AAAI 2026
+- Conferences: AAAI 2026, AAAI 2027.
 
 ## Leadership
 - **President**, CCF Student Chapter at Sichuan University [(CCFSCU)](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/), 2026.03 - Present.
