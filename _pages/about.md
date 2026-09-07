@@ -146,4 +146,4 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - *2026.01 - 2026.04*, Research Intern (AI Security & Trustworthy Evaluation), China Mobile, Digital Intelligence Department.
 
 # Traffic statistics
-<div align=center><a href='https://clustrmaps.com/site/1bxpc'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=96bfd7&w=a&t=n&d=RkKj3tHK4P8QoPYq7dew8DX87K1aZDrq3LlaQ2bm80Y&co=ffffff&ct=ffffff'/></a></div>
+<div align=center><a href="https://mapmyvisitors.com/web/1c82o" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=6Fg6dc3zOBq_Wt0f7bRIsXMx3yMmcW-4XgUzlye8lck&cl=ffffff"></a></div>
