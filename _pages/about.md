@@ -104,9 +104,12 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   <br> Leading the student chapter, responsible for drafting operational guidelines, organizing academic exchanges and technical workshops, and formulating the annual activity development plan for student members.
 
 ## TA
-- [Formal Methods in Computer Science](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf), Sichuan University-Pittsburgh Institute(SCUPI). My notes have been released at [whynotstar](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjMyODgzNA==&action=getalbum&album_id=4192307105656733698#wechat_redirect).
+- [Formal Methods in Computer Science - Fall,2025](https://scupi.scu.edu.cn/wp-content/uploads/2025/09/CS-1502-Formal-Methods-in-Computer-Science.pdf), Sichuan University-Pittsburgh Institute(SCUPI). My notes have been released at [whynotstar](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2MjMyODgzNA==&action=getalbum&album_id=4192307105656733698#wechat_redirect).
+- [Formal Methods in Computer Science - Fall,2026](https://scupi.scu.edu.cn/wp-content/uploads/2026/09/CS-1502-Formal-Methods-in-Computer-Science.pdf),Sichuan University-Pittsburgh Institute(SCUPI).【[Notes](https://gmxian.github.io/Theory-of-Computation/)】
+- [An Introduction to Optimization - Fall,2026](https://scupi.scu.edu.cn/wp-content/uploads/2026/09/MATH-1101_An-introduction-to-optimization-1.pdf),Sichuan University-Pittsburgh Institute(SCUPI).【[Notes]([https://gmxian.github.io/Theory-of-Computation/](https://gmxian.github.io/optimization-theory-notes/))】
 - Operating Systems, College of Software, Sichuan University.
 - Introduction to Software Engineering, College of Software, Sichuan University.
+- Database Management, College of Computer Science, Sichuan University.
 
 
 # 💡 Patents
