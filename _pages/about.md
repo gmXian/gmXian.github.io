@@ -139,7 +139,8 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 - *2021.12*, The China National Encouragement Scholarship (2020-2021).
 - *2021.10*, The First Prize Scholarship (CQUPT).
 
-
+# 🤝 Collaborators
+- [**Maocai Dai (戴茂才)**](https://dahat364.github.io/)    *A good friend and fellow researcher since our undergraduate years at CQUPT.*
 
 # 📖 Educations
 - *2024.09 - 2027.06(now)*, M.Eng. Electronic Information, Sichuan University (SCU), Chengdu, China. My tutor is [Ning Yang](https://yneversky.github.io/).
