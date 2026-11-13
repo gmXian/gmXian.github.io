@@ -101,7 +101,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   <div class='paper-box-image'>
     <div>
       <div class="badge">KDD 2027(Poster)</div>
-      <img src='images/PCM-NO.jpg' alt="PCM-NO" width="100%">
+      <img src='images/PCM-NO.png' alt="PCM-NO" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
