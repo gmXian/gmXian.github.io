@@ -20,6 +20,9 @@ redirect_from:
 Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at Sichuan University in Chengdu, China under the supervision of [Ning Yang](https://yneversky.github.io/).Recently, my research interests have centered on MultiModal Machine Learning and its Adversarial Robustness.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One paper has been accepted by **KDD 2027**!
+- *2026.11*: &nbsp;🎉🎉 Our paper has awarded the 35th CIKM Best Full Research Paper!
+- *2026.10*: &nbsp;🎉🎉 Happy to be awarded the China **National Scholarship** (2025-2026)!
 - *2026.08*: &nbsp;🎉🎉 One paper has been accepted by **CIKM 2026**!
 - *2026.07*: &nbsp;🎉🎉 Happy to be awarded the First Prize Scholarship (SCU).
 - *2026.06*: &nbsp;🎉🎉 Happy to be selected for the 2026 Kweichow Moutai · Pillar of the Nation Outstanding Talents Program (Master’s).
@@ -73,10 +76,50 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
     </ul>
   </div>
 </div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CIKM 2026(Oral)</div>
+      <img src='images/cikm_2026_best_paper.jpg' alt="Best Paper" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <p>
+      GCL-Detox: Disentangling Uniformity for Robust and Effective Graph Contrastive Learning-Based Recommendation
+    </p>
+    <p>
+      Qinwen Ran, <strong>Guanmeng Xian</strong>, Ning Yang*, Philip S. Yu
+    </p>
+    <p>
+    </p>
+    <ul>
+      <li>Our paper has awarded the 35th CIKM Best Full Research Paper!</li>
+    </ul>
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">KDD 2027(Poster)</div>
+      <img src='images/PCM-NO.jpg' alt="PCM-NO" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <p>
+      Learning Autoregressive Neural Operators on Solver-Defined Physical Constraint Manifolds
+    </p>
+    <p>
+      Nannan Zhou, <strong>Guanmeng Xian</strong>, Ning Yang*
+    </p>
+    <p>
+    </p>
+    <ul>
+      <li></li>
+    </ul>
+  </div>
+</div>
 
-- **GCL-Detox: Disentangling Uniformity for Robust and Effective Graph Contrastive Learning-Based Recommendation**
-  Qinwen Ran, **Guanmeng Xian**, Ning Yang, Philip S. Yu  
-  **CIKM 2026(Oral)**
+
 
 - [**Multi-Task Learning with Hierarchical Feature Disentanglement for Low-Exposure Facial Recognition in Smart Cockpits**](https://link.springer.com/article/10.1007/s00521-026-12107-x)  
   Zhuoyi Yu, **Guanmeng Xian**, Qianmengke Zhao, Hong Yu, Xiao Li, Ye Wang.  
@@ -121,6 +164,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 
 # 🎖 Honors and Awards
+- *2026.10*, The China **National Scholarship** (2025-2026).
 - *2026.07*, The First Prize Scholarship (2026-2027, SCU).
 - *2026.06*, The 2026 Kweichow Moutai · Pillar of the Nation Outstanding Talents Program (Master’s).
 - *2024.08*, The 2024 Chongqing Outstanding Undergraduate Thesis (Design).
