@@ -34,7 +34,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IJCAI 2026</div>
+      <div class="badge">IJCAI 2026(Oral+Poster)</div>
       <img src='images/MCAT.png' alt="MCAT" width="100%">
     </div>
   </div>
@@ -57,7 +57,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IJCAI 2026</div>
+      <div class="badge">IJCAI 2026(Oral+Poster)</div>
       <img src='images/UAT-MC.png' alt="UAT-MC" width="100%">
     </div>
   </div>
@@ -80,7 +80,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CIKM 2026(Oral)</div>
-      <img src='images/cikm_2026_best_paper.jpg' alt="Best Paper" width="80%">
+      <img src='images/cikm_2026_best_paper.jpg' alt="Best Paper" width="75%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -139,7 +139,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
 
 # 🔋 Services
 ## Reviewer
-- Conferences: AAAI 2026, AAAI 2027.
+- Conferences: AAAI 2026, AAAI 2027, ICLR 2027, WWW 2027.
 
 ## Leadership
 - **President**, CCF Student Chapter at Sichuan University [(CCFSCU)](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/), 2026.03 - Present.
