@@ -80,7 +80,7 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
   <div class='paper-box-image'>
     <div>
       <div class="badge">CIKM 2026(Oral)</div>
-      <img src='images/cikm_2026_best_paper.jpg' alt="Best Paper" width="100%">
+      <img src='images/cikm_2026_best_paper.jpg' alt="Best Paper" width="80%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -114,7 +114,6 @@ Hello, this is Guanmeng Xian(贤冠萌). Now, I'm pursuing the Master degree at 
     <p>
     </p>
     <ul>
-      <li></li>
     </ul>
   </div>
 </div>
